@@ -15,6 +15,6 @@ module.exports = {
       type:'string'
     }
   },
-  connection:'mongodb'
+  // connection:'mongodb'
 };
 
